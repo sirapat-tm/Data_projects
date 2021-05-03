@@ -5,9 +5,9 @@
 The data used in this project is provided by The World Bank. 
 It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
 
-Datasets [Datasets](/SQL_internationDebt/datasets) 
+Datasets [Datasets](/SQL_InternationDebt/datasets) 
 
-Project notebook [notebook.ipynb](/SQL_internationDebt/notebook.ipynb) 
+Project notebook [notebook.ipynb](/SQL_InternationDebt/notebook.ipynb) 
 
 ### Project tasks
 1. Proview The World Bank's international debt data
